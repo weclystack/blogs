@@ -8,5 +8,3 @@ fields:
     required: false
   label: asa
   description: dsd
-pages:
-- content/posts/dasd.md
