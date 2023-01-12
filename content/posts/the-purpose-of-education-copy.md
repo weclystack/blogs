@@ -1,6 +1,5 @@
 +++
 date = 1948-12-12T10:18:00Z
-draft = true
 tags = ["fiction", "hugo"]
 title = "The Purpose of Education-(copy)"
 
