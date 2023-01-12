@@ -1,0 +1,23 @@
+name: Programplex
+dp: https://twistdev.my.id/logo.png
+description: "
+  <p>
+   Developer, Bug Bounty, DevOps. Share on this blog, hopefully it helps.
+  </p>
+  <br/>
+  <p>
+   If you have any ideas for an article, you can contact the admin at Programplex in the community group.
+  </P>
+"
+email: 
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/
+  - title: github
+    url: https://github.com/
+  - title: twitter
+    url: https://twitter.com/
+  - title: dev
+    url: https://dev.to/
+  - title: email
+    url: mailto:info@programplex.dev

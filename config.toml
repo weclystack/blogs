@@ -1,0 +1,21 @@
+baseURL = "https://blog.programplex.dev/"
+languageCode = "en-us"
+title = "Programplex"
+rssLimit = 20
+copyright = "2023 Programplex All rights reserved"
+minify = false
+
+[Author]
+  name = "Plex Mind"
+  email = "info@programplex.dev"
+
+[permalinks]
+  posts = "/:year/:month/:day/:filename"
+  pages = "/:slug"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["html", "json", "rss"]
