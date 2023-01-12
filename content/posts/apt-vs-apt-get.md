@@ -3,6 +3,7 @@ title: Hugo Markdown
 date: 2021-11-04
 tags:
 - hugo
+draft: true
 
 ---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
