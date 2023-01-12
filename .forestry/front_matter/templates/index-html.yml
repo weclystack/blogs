@@ -1,6 +1,12 @@
 ---
 label: index.html
 hide_body: false
-fields: []
+fields:
+- name: asa
+  type: text
+  config:
+    required: false
+  label: asa
+  description: dsd
 pages:
 - content/posts/dasd.md
