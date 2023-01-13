@@ -13,3 +13,4 @@ fields:
   label: tags
 pages:
 - content/posts/hello.md
+- content/posts/how-to-host-blind-xss-hunter-ezxss-on-cpanel.md
