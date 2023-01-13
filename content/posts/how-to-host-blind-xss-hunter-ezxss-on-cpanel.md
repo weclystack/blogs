@@ -20,7 +20,13 @@ e-mail and telegram bots.
 
    if you don't know how to create a database you can [click here ](https://www.jagoanhosting.com/tutorial/cpanel/user-database-di-cpanel "https://www.jagoanhosting.com/tutorial/cpanel/user-database-di-cpanel")
 4. extract the file and replace the file named .env.example to .env and don't forget to change the contents of the env file with the database name, db user, db password
+
+   ![](/uploads/db.png)
 5. after that you can access https://example.com/manage/install
+
+## ezXSS display
+
+![](/uploads/ez4.png)![](/uploads/ez3.png)![](/uploads/ez2.png)![](/uploads/ez1.png)
 
 ## ezXSS features
 
