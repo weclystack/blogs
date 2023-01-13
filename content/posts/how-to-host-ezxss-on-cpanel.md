@@ -1,5 +1,5 @@
 +++
-date = 2023-01-12T17:00:00Z
+date = 2023-01-13T05:00:00Z
 tags = ["selft-host", "ezXSS", "ezxss", "ezXss", "cpanel", "Progranplex", "Hello "]
 title = "How to host exxss in cPanel"
 
