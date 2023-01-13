@@ -1,7 +1,7 @@
 +++
 date = 2023-01-13T05:00:00Z
 tags = ["selft-host", "ezXSS", "ezxss", "ezXss", "cpanel", "Progranplex", "Hello "]
-title = "How to host exxss in cPanel"
+title = "How to host ezXSS in cPanel"
 
 +++
 What is ezxss? ezxss is the same as the ezxss version of xss hunter, we can host it, manage it privately on our server and no less, ezxss can send reports via
