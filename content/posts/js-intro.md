@@ -4,4 +4,4 @@ tags = ["Programplex", "Frontend", "JS", "Javascript", "Web "]
 title = "Javascript Introduction (Pengenalan Javascript)"
 
 +++
-{ content }
+%{ content }
